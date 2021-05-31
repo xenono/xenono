@@ -6,6 +6,6 @@
 
 :beers: :mortar_board: I am currently studying Computer Science at Liverpool Hope University. :mortar_board: :beers:
 
-⚡ Fun fact: I enjoy writing C code although Python and Javascript are in deep my :heart: heart. :heart: ⚡
+⚡ Fun fact: I enjoy writing C code although Python and Javascript are deep in my :heart: heart. :heart: ⚡
 
 :neckbeard: I am a nerd, but also a sport freak. I love :swimmer: swimming, :running: running and :muscle: lifting at the gym. :neckbeard:
