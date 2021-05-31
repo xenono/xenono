@@ -1,4 +1,8 @@
-### Hi there 👋
+## **Hi, I'm Xenono** 👋
+
+I love to learn everything about everything, especially if it's related to computers and programming! :computer:
+:collision: I often break things just to make them work again later. :collision:
+I am currently studying Computer Science at Liverpool Hope University.
 
 <!--
 **xenono/xenono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
