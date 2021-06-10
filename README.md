@@ -1,4 +1,4 @@
-## **Hi, I'm Xenono** 👋
+## 👋 **Hi, I'm Xenono** 👋
 
 :computer: I love to learn everything about everything, especially if it's related to computers and programming! :computer:
 
